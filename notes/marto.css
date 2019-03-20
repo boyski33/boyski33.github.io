@@ -1,0 +1,8 @@
+body {
+  background-color: purple;
+  text-align: center;
+  color: yellow;
+  padding-top:10em;
+}
+
+* { color: yellow; text-decoration: none;}
